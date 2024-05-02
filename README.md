@@ -12,7 +12,9 @@ docker compose up --build -d --scale spark-worker=2
 docker ps 
 ![image](https://github.com/kamibrenda/DE_PROJ/assets/42267047/bd1e1f8b-8119-420c-a078-bab311bca9bb)
 
+### 4. To stop containers
+docker compose down
+![image](https://github.com/kamibrenda/DE_PROJ/assets/42267047/91763d0f-b163-4be2-be6e-3430bf5b54dd)
 
-### 4. fd
 ### 5. dfvf
 ### 6. fvbg 
